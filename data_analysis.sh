@@ -1,9 +1,7 @@
 #!/bin/bash
 #This will contain my new analytical method!
+#New method v2
 Hello world!
-Function 1
-Function 2
-Function 3
-Function 4
+#Python script goes here
 
-RScript  myrscript.R
+#RScript  myrscript.R
