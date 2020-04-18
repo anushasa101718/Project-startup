@@ -1,3 +1,4 @@
+#from daisy in the first line
 #!/bin/bash
 #This will contain my new analytical method!
 #New method v2
