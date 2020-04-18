@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #challenge 1: first line changed from User 2(daisy)  challenge 2 adding by user 2
 #add something in the first line:Daisy
 =======
