@@ -1,3 +1,4 @@
+#add something in the first line:Daisy
 #!/bin/bash
 #This will contain my new analytical method!
 #New method v2
