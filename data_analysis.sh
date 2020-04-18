@@ -1,4 +1,4 @@
-#challenge 1: first line changed from User 2(daisy)
+#challenge 1: first line changed from User 2(daisy) - chnages by user1 for challenge 2 :
 #add something in the first line:Daisy
 #!/bin/bash
 #This will contain my new analytical method!
